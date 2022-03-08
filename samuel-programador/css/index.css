@@ -1,0 +1,24 @@
+img{
+    height: 60vh;
+}
+
+.row-cols-md-2{
+    width: 50%;
+}
+
+.row{
+    width: auto;
+}
+
+/* modal */
+
+.modal-main{
+    width: 30%;
+    margin: 20px auto 0;
+}
+.modal-main button{
+    width: 100%;
+}
+
+
+/* modal */
